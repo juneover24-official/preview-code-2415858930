@@ -1,7 +1,7 @@
 {
   "qq_number": "2415858930",
   "group_number": "1048503850",
-  "updated_at": "2026-07-04T11:16:26+00:00",
+  "updated_at": "2026-07-04T11:16:31+00:00",
   "skins": [
     {
       "name": "灰白色的你彩",
@@ -16,16 +16,16 @@
       "full": "灰白色的你融合.bds_py_26_light_thumb.png"
     },
     {
-      "name": "灰白色的你融合",
-      "file": "灰白色的你二融合.bds",
-      "thumb": "灰白色的你二融合.bds_py_26_light_thumb.png",
-      "full": "灰白色的你二融合.bds_py_26_light_thumb.png"
-    },
-    {
       "name": "灰白色的你音效二彩",
       "file": "灰白色的你二彩.bds",
       "thumb": "灰白色的你二彩.bds_py_26_light_thumb.png",
       "full": "灰白色的你二彩.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "灰白色的你融合",
+      "file": "灰白色的你二融合.bds",
+      "thumb": "灰白色的你二融合.bds_py_26_light_thumb.png",
+      "full": "灰白色的你二融合.bds_py_26_light_thumb.png"
     }
   ]
 }
