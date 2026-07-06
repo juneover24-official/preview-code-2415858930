@@ -1,7 +1,7 @@
 {
   "qq_number": "2415858930",
   "group_number": "619952373",
-  "updated_at": "2026-07-06T12:41:22+00:00",
+  "updated_at": "2026-07-06T12:41:29+00:00",
   "skins": [
     {
       "name": "妹抖系天使音效二融合",
@@ -56,6 +56,12 @@
       "file": "大小姐坏脾气也没事一彩.bdi",
       "thumb": "大小姐坏脾气也没事一彩.bdi_py_26_light_thumb.png",
       "full": "大小姐坏脾气也没事一彩.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "大小姐坏脾气也没关系音效一彩",
+      "file": "大小姐坏脾气也没事一彩.bds",
+      "thumb": "大小姐坏脾气也没事一彩.bds_py_26_light_thumb.png",
+      "full": "大小姐坏脾气也没事一彩.bds_py_26_light_thumb.png"
     }
   ]
 }
