@@ -1,7 +1,7 @@
 {
   "qq_number": "2415858930",
   "group_number": "619952373",
-  "updated_at": "2026-07-08T08:40:59+00:00",
+  "updated_at": "2026-07-08T08:41:07+00:00",
   "skins": [
     {
       "name": "妹抖系天使音效二融合",
@@ -140,6 +140,12 @@
       "file": "透明海二彩.bdi",
       "thumb": "透明海二彩.bdi_py_26_light_thumb.png",
       "full": "透明海二彩.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "透明海音效一",
+      "file": "透明海一融合.bdi",
+      "thumb": "透明海一融合.bdi_py_26_light_thumb.png",
+      "full": "透明海一融合.bdi_py_26_light_thumb.png"
     }
   ]
 }
