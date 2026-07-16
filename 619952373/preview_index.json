@@ -1,7 +1,7 @@
 {
   "qq_number": "2415858930",
   "group_number": "619952373",
-  "updated_at": "2026-07-15T10:09:21+00:00",
+  "updated_at": "2026-07-16T12:46:14+00:00",
   "skins": [
     {
       "name": "妹抖系天使音效二融合",
@@ -176,6 +176,12 @@
       "file": "羽下空二融合.bdi",
       "thumb": "羽下空二融合.bdi_py_26_light_thumb.png",
       "full": "羽下空二融合.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "羽下空音效二彩",
+      "file": "羽下空二彩.bdi",
+      "thumb": "羽下空二彩.bdi_py_26_light_thumb.png",
+      "full": "羽下空二彩.bdi_py_26_light_thumb.png"
     }
   ]
 }
